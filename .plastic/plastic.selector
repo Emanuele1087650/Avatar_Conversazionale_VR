@@ -1,0 +1,4 @@
+repository "Progetto6_CG/Avatar_Conversazionale_VR@1375817039058@cloud"
+  path "/"
+    br "/main"
+    co "/main"
