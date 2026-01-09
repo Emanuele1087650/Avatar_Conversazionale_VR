@@ -57,16 +57,16 @@ cd server
 python flask_server_openrouter.py
 ```
 
-Il server Flask verrà avviato in locale (di default su `http://127.0.0.1:5000`).
+Il server Flask verrà avviato in locale.
 
-> Assicurarsi di avere installato i package Python richiesti (eventualmente tramite `pip install -r requirements.txt` se presente).
+> Assicurarsi di avere installato i package Python richiesti.
 
 ---
 
 ## Avvio dell'esperienza VR
 
 1. Assicurarsi che il server Flask sia **attivo**
-2. Avviare la scena principale del progetto in Unity (all'interno di Assets/Scene)
+2. Avviare la scena principale del progetto in Unity (all'interno di Assets/Scene).
 3. Collegare il visore Oculus.
 4. Avviare in **Play Mode**.
 
