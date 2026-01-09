@@ -7,7 +7,7 @@ load_dotenv()
 app = Flask(__name__)
 CORS(app)
 
-OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY", "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")
+OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 OPENROUTER_HOST = "https://openrouter.ai/api/v1/chat/completions"
 MODEL = os.getenv("OPENROUTER_MODEL", "google/gemma-3-4b-it:free")
 
