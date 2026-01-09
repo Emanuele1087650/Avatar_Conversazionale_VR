@@ -40,7 +40,7 @@ cd Avatar_Conversazionale_VR
 Il server backend si trova nella cartella `server` ed è gestito dal file:
 
 ```
-flask_server_OPENROUTER.py
+flask_server_openrouter.py
 ```
 
 ### Passaggi:
