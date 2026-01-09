@@ -2739,6 +2739,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0b7cc5c96884b0243b5ace41768376b9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speaker: {fileID: 213389070}
   wanderRadius: 12
   minPause: 5
   maxPause: 10
@@ -2746,6 +2747,8 @@ MonoBehaviour:
   repathInterval: 0.25
   arriveThreshold: 0.25
   areaMask: -1
+  lookAtSpeed: 6
+  interactionTarget: {fileID: 1673890791}
   speedParam: Speed
   isMovingParam: IsMoving
   randomIdleTrigger: RandomIdle

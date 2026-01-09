@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\manub\\Documents\\UnityAvatar\\Progetto6_CG\\Avatar_Conversazionale_VR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4490430-DE9E-52E2-BD7D-1676ABE7A5B1}|Assembly-CSharp.csproj|c:\\users\\manub\\documents\\unityavatar\\progetto6_cg\\avatar_conversazionale_vr\\assets\\script\\stt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4490430-DE9E-52E2-BD7D-1676ABE7A5B1}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\stt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A4490430-DE9E-52E2-BD7D-1676ABE7A5B1}|Assembly-CSharp.csproj|C:\\Users\\manub\\Documents\\UnityAvatar\\Progetto6_CG\\Avatar_Conversazionale_VR\\assets\\script\\request_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4490430-DE9E-52E2-BD7D-1676ABE7A5B1}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\request_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4490430-DE9E-52E2-BD7D-1676ABE7A5B1}|Assembly-CSharp.csproj|C:\\Users\\manub\\Documents\\UnityAvatar\\Progetto6_CG\\Avatar_Conversazionale_VR\\assets\\script\\wander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4490430-DE9E-52E2-BD7D-1676ABE7A5B1}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\wander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4490430-DE9E-52E2-BD7D-1676ABE7A5B1}|Assembly-CSharp.csproj|C:\\Users\\manub\\Documents\\UnityAvatar\\Progetto6_CG\\Avatar_Conversazionale_VR\\assets\\script\\popup_message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4490430-DE9E-52E2-BD7D-1676ABE7A5B1}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\popup_message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4490430-DE9E-52E2-BD7D-1676ABE7A5B1}|Assembly-CSharp.csproj|C:\\Users\\manub\\Documents\\UnityAvatar\\Progetto6_CG\\Avatar_Conversazionale_VR\\assets\\script\\lipsync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4490430-DE9E-52E2-BD7D-1676ABE7A5B1}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lipsync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4490430-DE9E-52E2-BD7D-1676ABE7A5B1}|Assembly-CSharp.csproj|C:\\Users\\manub\\Documents\\UnityAvatar\\Progetto6_CG\\Avatar_Conversazionale_VR\\assets\\script\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +19,16 @@
       "RelativeMoniker": "D:0:0:{A4490430-DE9E-52E2-BD7D-1676ABE7A5B1}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\followcollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4490430-DE9E-52E2-BD7D-1676ABE7A5B1}|Assembly-CSharp.csproj|C:\\Users\\manub\\Documents\\UnityAvatar\\Progetto6_CG\\Avatar_Conversazionale_VR\\assets\\script\\lipsync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4490430-DE9E-52E2-BD7D-1676ABE7A5B1}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lipsync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4490430-DE9E-52E2-BD7D-1676ABE7A5B1}|Assembly-CSharp.csproj|c:\\users\\manub\\documents\\unityavatar\\progetto6_cg\\avatar_conversazionale_vr\\assets\\script\\stt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4490430-DE9E-52E2-BD7D-1676ABE7A5B1}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\stt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4490430-DE9E-52E2-BD7D-1676ABE7A5B1}|Assembly-CSharp.csproj|C:\\Users\\manub\\Documents\\UnityAvatar\\Progetto6_CG\\Avatar_Conversazionale_VR\\assets\\script\\wander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4490430-DE9E-52E2-BD7D-1676ABE7A5B1}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\wander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4490430-DE9E-52E2-BD7D-1676ABE7A5B1}|Assembly-CSharp.csproj|C:\\Users\\manub\\Documents\\UnityAvatar\\Progetto6_CG\\Avatar_Conversazionale_VR\\assets\\script\\popup_message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4490430-DE9E-52E2-BD7D-1676ABE7A5B1}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\popup_message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "CameraMovement.cs",
               "DocumentMoniker": "C:\\Users\\manub\\Documents\\UnityAvatar\\Progetto6_CG\\Avatar_Conversazionale_VR\\Assets\\Script\\CameraMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\CameraMovement.cs",
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "FollowCollider.cs",
               "DocumentMoniker": "C:\\Users\\manub\\Documents\\UnityAvatar\\Progetto6_CG\\Avatar_Conversazionale_VR\\Assets\\Script\\FollowCollider.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\FollowCollider.cs",
@@ -68,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "PopUp_Message.cs",
               "DocumentMoniker": "C:\\Users\\manub\\Documents\\UnityAvatar\\Progetto6_CG\\Avatar_Conversazionale_VR\\Assets\\Script\\PopUp_Message.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PopUp_Message.cs",
@@ -76,12 +76,11 @@
               "RelativeToolTip": "Assets\\Script\\PopUp_Message.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T14:48:52.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T14:48:52.551Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "wander.cs",
               "DocumentMoniker": "C:\\Users\\manub\\Documents\\UnityAvatar\\Progetto6_CG\\Avatar_Conversazionale_VR\\Assets\\Script\\wander.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\wander.cs",
@@ -89,46 +88,46 @@
               "RelativeToolTip": "Assets\\Script\\wander.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAcwFIAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T14:05:56.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T14:05:56.895Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "STT.cs",
               "DocumentMoniker": "C:\\Users\\manub\\Documents\\UnityAvatar\\Progetto6_CG\\Avatar_Conversazionale_VR\\Assets\\Script\\STT.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\STT.cs",
               "ToolTip": "C:\\Users\\manub\\Documents\\UnityAvatar\\Progetto6_CG\\Avatar_Conversazionale_VR\\Assets\\Script\\STT.cs",
               "RelativeToolTip": "Assets\\Script\\STT.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAswEUAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDIAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T13:45:13.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "request_controller.cs",
               "DocumentMoniker": "C:\\Users\\manub\\Documents\\UnityAvatar\\Progetto6_CG\\Avatar_Conversazionale_VR\\Assets\\Script\\request_controller.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\request_controller.cs",
               "ToolTip": "C:\\Users\\manub\\Documents\\UnityAvatar\\Progetto6_CG\\Avatar_Conversazionale_VR\\Assets\\Script\\request_controller.cs",
               "RelativeToolTip": "Assets\\Script\\request_controller.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAYwHMAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowHMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T13:44:31.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "lipSync.cs",
               "DocumentMoniker": "C:\\Users\\manub\\Documents\\UnityAvatar\\Progetto6_CG\\Avatar_Conversazionale_VR\\Assets\\Script\\lipSync.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\lipSync.cs",
               "ToolTip": "C:\\Users\\manub\\Documents\\UnityAvatar\\Progetto6_CG\\Avatar_Conversazionale_VR\\Assets\\Script\\lipSync.cs",
               "RelativeToolTip": "Assets\\Script\\lipSync.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T13:10:56.471Z"
+              "WhenOpened": "2025-11-26T13:10:56.471Z",
+              "EditorCaption": ""
             }
           ]
         }
